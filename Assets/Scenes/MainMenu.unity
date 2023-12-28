@@ -901,12 +901,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   firstLevel: AdventureAvenue
-  levelSelect: SelectLevel
+  levelSelect: SelectLevelScene
   continueButton: {fileID: 1029070887}
   levelNames:
   - AdventureAvenue
   - LavaLanes
-  - FrozenFrenzy
+  - FrozenFrenzys
 --- !u!1 &822515839
 GameObject:
   m_ObjectHideFlags: 0

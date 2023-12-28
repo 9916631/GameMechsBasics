@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AdventureAvenue.unity
     guid: d4ad004bc63b17744b195d85c85ece07
+  - enabled: 1
+    path: Assets/Scenes/SelectLevelScene.unity
+    guid: 925cce807b88f6842815e3d9fb52e3cd
+  - enabled: 1
+    path: Assets/Scenes/LavaLanes.unity
+    guid: 7c6cc20de7b5dcb4189d99dfa7ff86c9
+  - enabled: 1
+    path: Assets/Scenes/FrozenFrenzys.unity
+    guid: afd4fc4c91096e1498615ccece46a720
   m_configObjects: {}

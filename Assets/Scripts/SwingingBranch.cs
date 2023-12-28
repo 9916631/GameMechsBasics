@@ -22,7 +22,7 @@ public class SwingingBranch : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             // Set the trigger to transition back to idle animation
-            SwingAnimator.SetTrigger("IdleBranchAnimation");
+            SwingAnimator.SetTrigger("BranchIdle");
         }
     }
 
